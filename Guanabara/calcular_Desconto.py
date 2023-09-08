@@ -1,0 +1,3 @@
+preço = float(input('Qual é o preço do produto? R$'))
+novo = preço - (preço * 5 / 100)
+print('O  produto  que custava {}, na custará com desconmto de 5% custará R${}'.format(preço, novo))

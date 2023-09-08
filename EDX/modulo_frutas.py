@@ -1,0 +1,5 @@
+a = "laranja"
+b = "morango"
+c = "banana"
+d = "damasco"
+e = "laranja"
